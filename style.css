@@ -20,6 +20,7 @@
 .cont4{
     display: flex;
     gap: 50px;
+    padding-top: 60px;
 }
 .random{
         padding-left: 300px;
