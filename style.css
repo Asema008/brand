@@ -14,13 +14,14 @@
 }
 .cont3{
     display: flex;
-    padding-bottom: 80px;
+    padding-bottom: 60px;
     gap: 50px;
 }
 .cont4{
     display: flex;
     gap: 50px;
-    padding-top: 60px;
+    padding-top: 40px;
+    padding-bottom: 50px;
 }
 .random{
         padding-left: 300px;
